@@ -1,1 +1,1 @@
-alert( 'Привет, Мир!' );
+alert( 'Я – JavaScript!' );
